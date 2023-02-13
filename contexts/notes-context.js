@@ -6,12 +6,12 @@ const NOTES_INITIAL_STATE = [
   {
     id: 0,
     topicId: 0,
-    text: "This is fwefwefwf",
+    text: "This is react work",
   },
   {
     id: 1,
     topicId: 0,
-    text: "This is fw  22222",
+    text: "This is my work",
   },
 ];
 
